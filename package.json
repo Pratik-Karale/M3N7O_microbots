@@ -1,0 +1,30 @@
+{
+  "name": "m3n7o_microbots",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pratik-Karale/M3N7O_microbots.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pratik-Karale/M3N7O_microbots/issues"
+  },
+  "homepage": "https://github.com/Pratik-Karale/M3N7O_microbots#readme",
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.2",
+    "express": "^5.1.0",
+    "mammoth": "^1.10.0",
+    "multer": "^2.0.2",
+    "pdf-parse": "^1.1.1",
+    "pptxgenjs": "^4.0.1"
+  }
+}
